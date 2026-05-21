@@ -1,0 +1,11493 @@
+DESKTOP
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 40px;
+
+width: 632.8px;
+height: 2970.81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 55 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 593.25px;
+height: 2970.81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 53 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 593.25px;
+height: 121.88px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 25px;
+isolation: isolate;
+
+width: 593.25px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Only a few left in stock - order soon. */
+
+width: 220px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #FF7208;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Image */
+
+position: absolute;
+width: 16px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0.585px;
+
+width: 593.25px;
+height: 73.58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Soft & Cozy Terry Towel Bra - 100% Cotton Material */
+
+width: 593.25px;
+height: 73px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+/* or 130% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Figure - 4.3 rating (155 votes) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 1.95px 0px 0.35px;
+
+width: 593.25px;
+height: 19.3px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2px;
+
+width: 236px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 146px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/*  4.3 based on 155 reviews */
+
+width: 146px;
+height: 17px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #1D6EC1;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 283px;
+height: 120px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 57 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 283px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* Made with 100% cotton terry cloth */
+
+width: 255px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 58 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 273px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* Sweat-wicking & ultra-absorbent */
+
+width: 245px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 59 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 265px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* No hooks, clasps, or underwires */
+
+width: 237px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 60 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 273px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* Adjustable straps for a custom fit */
+
+width: 245px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 54 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 593.25px;
+height: 768.56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 17px 18px 0px;
+
+width: 593.25px;
+height: 46px;
+
+background: #F0F2F5;
+border-radius: 10px 10px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 557.25px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 1.81px 0px;
+
+width: 52px;
+height: 19.81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -7.10543e-15px;
+
+
+/* $49.99 */
+
+width: 48px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+text-decoration-line: line-through;
+
+color: #8A8A8A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 0px 0px;
+
+width: 178px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 174px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 10px;
+
+width: 82px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -7.10543e-14px;
+
+
+/* $16.99 */
+
+width: 62px;
+height: 29px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 10px;
+
+width: 92px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 1px 8px 1px 12px;
+
+width: 82px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px 8px;
+isolation: isolate;
+
+width: 62px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* 66% OFF */
+
+width: 46px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 593.25px;
+height: 507.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 14px 18px 4px;
+
+width: 593.25px;
+height: 36px;
+
+background: #F0F2F5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 557.25px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* POPULAR ADD ONS: */
+
+width: 557.25px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Background */
+
+width: 593.25px;
+height: 144px;
+
+background: #F0F2F5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+position: absolute;
+height: 0.01px;
+left: -1683.73px;
+right: 1719.73px;
+top: 14px;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 94px 0px 0px;
+gap: 0.02px;
+
+position: absolute;
+width: 557.25px;
+height: 0.01px;
+left: 1701.72px;
+top: 0px;
+
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px;
+
+margin: 0 auto;
+width: 111.44px;
+height: 94px;
+
+background: #E4E7ED;
+border: 2px solid #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 107.44px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Seamless Lace Support Bra for Women – Perfect Fit, Large Sizes, Wire - Free Comfort | Ideal for Yoga, Fitness, and Sleep - Gear Elevation */
+
+width: 90px;
+max-width: 107.44px;
+height: 90px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+margin: 0 auto;
+width: 445.79px;
+height: 94px;
+
+background: #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 368.32px;
+height: 66.53px;
+left: 10px;
+top: calc(50% - 66.53px/2 - 0.58px);
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0.525px;
+
+width: 347.5px;
+height: 42.53px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Seamless Lace Support Bra for Women – Perfect... */
+
+width: 301px;
+height: 42px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 173.32px 0px 0px;
+
+width: 368.32px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px 4px 0px 0px;
+
+width: 33px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $49.99 */
+
+width: 29px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+text-decoration-line: line-through;
+
+color: #8A8A8A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 0px 0px;
+
+width: 162px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 158px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 10px;
+
+width: 66px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $24.99 */
+
+width: 46px;
+height: 22px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 10px;
+
+width: 92px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 1px 8px 1px 12px;
+
+width: 82px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px 8px;
+isolation: isolate;
+
+width: 62px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* 50% OFF */
+
+width: 46px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 60px;
+height: 34px;
+left: 375.79px;
+top: calc(50% - 34px/2);
+
+
+
+/* Label */
+
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #CCCCCC;
+border-radius: 34px;
+
+
+/* Background */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 4px;
+bottom: 4px;
+
+background: #FFFFFF;
+border-radius: 13px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 94px 0px 0px;
+gap: 0.02px;
+
+position: absolute;
+width: 557.25px;
+height: 0.01px;
+left: 567.22px;
+top: 0px;
+
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+margin: 0 auto;
+width: 111.44px;
+height: 94px;
+
+background: #E4E7ED;
+border: 2px solid #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 14.31px 10px 14.32px;
+
+margin: 0 auto;
+width: 445.79px;
+height: 94px;
+
+background: #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 41.37px 0px 0px;
+
+margin: 0 auto;
+width: 365.79px;
+height: 65.37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 173.32px 0px 0px;
+
+width: 365.79px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+width: 31.97px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 0px 0px;
+
+width: 160.5px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 156.5px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+width: 64.75px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 10px;
+
+width: 91.75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 1px 8px 1px 12px;
+
+width: 81.75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 61.75px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+margin: 0 auto;
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 94px 0px 0px;
+gap: 0.02px;
+
+position: absolute;
+width: 557.25px;
+height: 0.01px;
+left: 1134.5px;
+top: 0px;
+
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+margin: 0 auto;
+width: 111.44px;
+height: 94px;
+
+background: #E4E7ED;
+border: 2px solid #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 14.31px 10px 14.32px;
+
+margin: 0 auto;
+width: 445.79px;
+height: 94px;
+
+background: #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 41.37px 0px 0px;
+
+margin: 0 auto;
+width: 365.79px;
+height: 65.37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -5.68434e-14px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 174.04px 0px 0px;
+
+width: 365.79px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+width: 31.97px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 0px 0px;
+
+width: 159.78px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 155.78px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+width: 64.03px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 10px;
+
+width: 91.75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 1px 8px 1px 12px;
+
+width: 81.75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 61.75px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+margin: 0 auto;
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button - Previous */
+
+position: absolute;
+width: 20px;
+height: 20px;
+right: 46px;
+top: 114px;
+
+opacity: 0.6;
+
+
+/* SVG */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 4px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.99%;
+right: 30.01%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Button - Next */
+
+position: absolute;
+width: 20px;
+height: 20px;
+right: 14px;
+top: 114px;
+
+opacity: 0.6;
+
+
+/* SVG */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 4px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.01%;
+right: 9.99%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+transform: rotate(180deg);
+
+
+/* Ordered List */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 285.94px 2px 8px;
+gap: 16px;
+
+position: absolute;
+max-width: 864px;
+height: 12px;
+left: 2.36%;
+right: 37.64%;
+bottom: 14px;
+
+
+
+/* Item - Page dot 1 */
+
+width: 10px;
+height: 10px;
+
+background: rgba(0, 0, 0, 0.3);
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item - Page dot 2 */
+
+width: 10px;
+height: 10px;
+
+background: rgba(0, 0, 0, 0.3);
+opacity: 0.25;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item - Page dot 3 */
+
+width: 10px;
+height: 10px;
+
+background: rgba(0, 0, 0, 0.3);
+opacity: 0.25;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 19px 18px 40px;
+
+width: 593.25px;
+height: 327.17px;
+
+background: #F0F2F5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Form */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 557.25px;
+height: 268.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* variant-selection → options-selection */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+width: 557.25px;
+min-width: 557.25px;
+height: 199.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fieldset */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.39px;
+
+width: 557.25px;
+height: 103.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Legend → Color: Black */
+
+width: 85px;
+height: 19px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #5F6061;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 10px;
+gap: 5px;
+
+width: 557.25px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 0px 1.5px #FFFFFF, 0px 0px 0px 3px #818181;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #000000;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #FFFFFF;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #FFC0CB;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #800080;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #008000;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fieldset */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.39px;
+
+width: 557.25px;
+height: 80.78px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Legend → Size: S */
+
+width: 46px;
+height: 19px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #5F6061;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 10px;
+gap: 5px;
+
+width: 557.25px;
+height: 51.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8.5px 13px 8.89px;
+
+width: 37px;
+height: 41.39px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* S */
+
+width: 11px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8.5px 13px 8.89px;
+
+width: 39px;
+height: 41.39px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* M */
+
+width: 13px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8.5px 13px 8.89px;
+
+width: 35px;
+height: 41.39px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* L */
+
+width: 9px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 557.25px;
+height: 53px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 14px 5px;
+
+position: absolute;
+height: 48.69px;
+left: 127px;
+right: 0px;
+top: 2.15px;
+
+background: linear-gradient(360deg, #DEBB0A 0%, #FFD814 100%);
+box-shadow: 0px 1.47742px 0px #B89B0B, 0px 2.21613px 9.60323px rgba(153, 129, 0, 0.36);
+border-radius: 5.91px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 0px 1.69px;
+gap: 0px;
+
+width: 420.25px;
+height: 20.69px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 7px 0px 0px;
+
+width: 23.72px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 16.72px;
+height: 18px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.01%;
+right: 0.02%;
+top: 14.29%;
+bottom: 7.14%;
+
+background: #0E0E0E;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Add To Cart */
+
+width: 96px;
+height: 20.7px;
+max-height: 20.7px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #0E0E0E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 115px;
+height: 57px;
+left: 0px;
+top: -4px;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 12px 10px 0px;
+isolation: isolate;
+
+width: 115px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Background+Border+Shadow */
+
+box-sizing: border-box;
+
+width: 95px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+box-shadow: 0px 1.79949px 2.69923px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 13px;
+top: calc(50% - 15px/2);
+
+
+
+/* SVG */
+
+width: 15px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 50%;
+bottom: 50%;
+
+border: 1.25px solid #000000;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 67px;
+top: calc(50% - 15px/2);
+
+
+
+/* SVG */
+
+width: 15px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.25px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 50%;
+bottom: 50%;
+
+border: 1.25px solid #000000;
+
+
+/* Input - Quantity:margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 10px;
+
+position: absolute;
+width: 39px;
+height: 18.39px;
+left: 28px;
+top: 13.29px;
+
+
+
+/* Input - Quantity */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 19px;
+height: 18.39px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 19px;
+height: 18.39px;
+overflow: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 1 */
+
+position: absolute;
+width: 7.58px;
+height: 19px;
+left: calc(50% - 7.58px/2 + 0.19px);
+top: -1px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4D4D4D;
+
+
+
+/* Label → Quantity */
+
+position: absolute;
+width: 62.41px;
+height: 16px;
+left: 30px;
+top: -9px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #949494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 593.25px;
+height: 215.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 19px 18px;
+
+width: 593.25px;
+height: 105.39px;
+
+background: #E4E7ED;
+border-width: 1px 0px;
+border-style: solid;
+border-color: #BFBFBF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: -1.27898e-13px 0px;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 20px 4.39px 0px;
+
+width: 83px;
+height: 67.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Bitmap.png */
+
+width: 63px;
+max-width: 63px;
+height: 63px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 313px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 313px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Easy 90 day return policy */
+
+width: 197px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 313px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Don't like it? No worries. We'll take it back for a full refund. */
+
+width: 313px;
+height: 20px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #5B6064;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 35px 30px;
+
+width: 593.25px;
+height: 110px;
+
+background: #F0F2F5;
+border-radius: 0px 0px 10px 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 15px;
+
+width: 533.25px;
+height: 31px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 533.25px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* We assure you a secure checkout */
+
+width: 533.25px;
+height: 16px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #5F6061;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 4.39px;
+
+width: 533.25px;
+height: 45.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group_1000003059_1.png */
+
+width: 354px;
+max-width: 533.25px;
+height: 41px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 2 */
+
+width: 553.25px;
+height: 1864.37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 40px;
+top: 1106.44px;
+
+
+
+/* Strong → Say Goodbye to Boob Sweat—and Hello to
+Breathable Bliss */
+
+width: 451px;
+height: 48px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 40px 0px 0px;
+
+position: absolute;
+height: 543px;
+left: 0px;
+right: 40px;
+top: 1166.44px;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 23px;
+
+width: 480px;
+height: 503px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 20201007_Towel_Bra_-_Posture_Corrector_GIFSC1_480x480.gif */
+
+width: 480px;
+max-width: 553.25px;
+height: 480px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 120px;
+left: 0px;
+right: 40px;
+top: 1713.44px;
+
+
+
+/* There’s nothing cute about swampy discomfort under your bust. The Soft & Cozy Terry Towel Bra is here to change that. Made with 100% cotton terry cloth, this bra is soft, wireless, and absorbent in all the right places. Whether you're lounging at home, getting ready for the day, or simply ditching the underwire life—it’s the bra you never knew you needed. */
+
+width: 555px;
+height: 120px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 1849.44px;
+
+
+
+/* No wires. No pads. No regrets. */
+
+width: 199px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 40px;
+top: 1889.44px;
+
+
+
+/* Strong → 💡 Why 473 Women Reached for This Instead of
+Their Usual Bra */
+
+width: 503px;
+height: 48px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 1949.44px;
+
+
+
+/* Strong → Breathable Comfort in a Cotton Hug */
+
+width: 386px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 107px;
+left: 0px;
+right: 40px;
+top: 1989.44px;
+
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Sweat-wicking terry cloth keeps you cool and dry */
+
+width: 324px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Ideal for post-shower, bedtime, or lazy-day wear */
+
+width: 320px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Full coverage without the bulk or stiffness */
+
+width: 276px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 2112.44px;
+
+
+
+/* Strong → Wireless, Weightless, Worry-Free */
+
+width: 356px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 107px;
+left: 0px;
+right: 40px;
+top: 2152.44px;
+
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* No hooks, clasps, or underwires to dig into your skin */
+
+width: 345px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Adjustable straps for a custom fit */
+
+width: 218px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Lightweight design that actually feels like... nothing */
+
+width: 340px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 2275.44px;
+
+
+
+/* Strong → Your Favorite Lounge Look */
+
+width: 290px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 107px;
+left: 0px;
+right: 40px;
+top: 2315.44px;
+
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Available in Black, White, Pink, Purple, and Green */
+
+width: 325px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Sizes: S, M, L */
+
+width: 83px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Cute enough for TikTok. Comfy enough for naps. */
+
+width: 320px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 2438.44px;
+
+
+
+/* Strong → Size Chart */
+
+width: 71px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Table */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 80.38px;
+left: 0px;
+right: 40px;
+top: 2478.44px;
+overflow: scroll;
+
+background: rgba(255, 255, 255, 0.002);
+border: 1px solid rgba(128, 128, 128, 0.16);
+box-shadow: 0px 1px 4px rgba(128, 128, 128, 0.11);
+
+
+/* Body */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 204px;
+left: 1.5px;
+right: 2.52px;
+top: 1.5px;
+
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 549.23px;
+height: 51px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 183.77px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Applicable for */
+
+width: 92px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 198.02px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Size */
+
+width: 27px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 167.45px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Weight */
+
+width: 47px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 549.23px;
+height: 51px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 183.77px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* S (suitable for (C-DD) */
+
+width: 138px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 198.02px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 75CM*20CM */
+
+width: 80px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 167.45px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 75G */
+
+width: 26px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 549.23px;
+height: 51px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 183.77px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* M (suitable for (DDD-E) */
+
+width: 150px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 198.02px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 90CM*24CM */
+
+width: 80px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 167.45px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 85G */
+
+width: 26px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 549.23px;
+height: 51px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 183.77px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* L (suitable for (F-H) */
+
+width: 127px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 198.02px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 100CM*28CM */
+
+width: 87px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 12px 17px 13px;
+
+width: 167.45px;
+height: 51px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 95G */
+
+width: 26px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 2598.81px;
+
+
+
+/* 💬 What Customers Say */
+
+width: 251px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 96px;
+left: 0px;
+right: 40px;
+top: 2630.81px;
+
+
+
+/* “Wearing this around the house is my new favorite hobby.” — Eden “I use it during pregnancy, after showers, even while cleaning. It’s that comfortable.” — Marie “If a spa towel and a crop top had a baby—it would be this.” — Kelsey */
+
+width: 557px;
+height: 96px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 40px;
+top: 2782.81px;
+
+
+
+/* 📦 What’s Included */
+
+width: 203px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 148px;
+left: 0px;
+right: 40px;
+top: 2822.81px;
+
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* 1 Soft & Cozy Terry Towel Bra */
+
+width: 193px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Size: Small, Medium, or Large */
+
+width: 195px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Color of your choice */
+
+width: 133px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 533.25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* Pre-washed, breathable cotton comfort     */
+
+width: 275px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+MOBILE 
+/* Article */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 10px 20px;
+gap: 28px;
+
+width: 390px;
+height: 3470.81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 370px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+position: absolute;
+height: 0.01px;
+left: -1480px;
+right: 1480px;
+top: 0px;
+
+
+
+/* Figure */
+
+position: absolute;
+width: 296px;
+height: 370px;
+left: 1480px;
+top: 0px;
+
+
+
+/* Image */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(.png);
+
+
+/* Figure */
+
+position: absolute;
+width: 296px;
+height: 370px;
+left: 1776px;
+top: 0px;
+
+
+
+/* Image */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(.png);
+
+
+/* Button menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 5.5px 10px 5.59px 9px;
+
+position: absolute;
+width: 121px;
+height: 26.09px;
+right: 10.8px;
+bottom: 13px;
+
+background: rgba(255, 255, 255, 0.9);
+box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.15);
+border-radius: 3px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 102px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 5px 0px 0px;
+
+width: 18px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 13px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 13px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 3.26%;
+top: 0.11%;
+bottom: 2.26%;
+
+background: #000000;
+
+
+/* Click to expand */
+
+width: 84px;
+height: 15px;
+max-height: 15.09px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 13.1px;
+line-height: 15px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 61 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 370px;
+height: 258.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 62 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 370px;
+height: 114.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+width: 370px;
+height: 83.1px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 25px;
+isolation: isolate;
+
+width: 370px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: -0.905px 0px;
+z-index: 1;
+
+
+/* Only a few left in stock - order soon. */
+
+width: 220px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #FF7208;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Image */
+
+position: absolute;
+width: 16px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 370px;
+height: 63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Soft & Cozy Terry Towel Bra - 100% Cotton Material */
+
+width: 370px;
+height: 63px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* or 130% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 370px;
+height: 19.3px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Figure - 4.3 rating (155 votes) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 1.95px 0px 0.35px;
+
+width: 370px;
+height: 19.3px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2px;
+
+width: 236px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* looxicons-rating-icon */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* looxicons-rating-icon-line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.32%;
+
+background: #FFDF00;
+
+
+/* looxicons-rating-icon-fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.31%;
+bottom: 2.31%;
+
+background: #FFDF00;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 146px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/*  4.3 based on 155 reviews */
+
+width: 146px;
+height: 17px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #1D6EC1;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 283px;
+height: 120px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 57 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 283px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* Made with 100% cotton terry cloth */
+
+width: 255px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 58 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 273px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* Sweat-wicking & ultra-absorbent */
+
+width: 245px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 59 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 265px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* No hooks, clasps, or underwires */
+
+width: 237px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 60 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 273px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* hugeicons:cotton-candy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px;
+gap: 5px;
+
+width: 20px;
+height: 20px;
+
+background: #354C5E;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:check */
+
+width: 13.33px;
+height: 13.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.04%;
+right: 16.04%;
+top: 24.9%;
+bottom: 25%;
+
+background: #FFFFFF;
+
+
+/* Adjustable straps for a custom fit */
+
+width: 245px;
+height: 21px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 370px;
+height: 668.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 17px 18px 0px;
+
+width: 370px;
+height: 46px;
+
+background: #F0F2F5;
+border-radius: 10px 10px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 334px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 1.81px 0px;
+
+width: 52px;
+height: 19.81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -7.10543e-15px;
+
+
+/* $49.99 */
+
+width: 48px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+text-decoration-line: line-through;
+
+color: #8A8A8A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 4px 0px 0px;
+
+width: 178px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 174px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 10px;
+
+width: 82px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -7.10543e-14px;
+
+
+/* $16.99 */
+
+width: 62px;
+height: 29px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 10px;
+
+width: 92px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 1px 8px 1px 12px;
+
+width: 82px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px 8px;
+isolation: isolate;
+
+width: 62px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* 66% OFF */
+
+width: 46px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 14px 18px 4px;
+
+width: 370px;
+height: 36px;
+
+background: #F0F2F5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 334px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* POPULAR ADD ONS: */
+
+width: 334px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Background */
+
+width: 370px;
+height: 154px;
+
+background: #F0F2F5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+position: absolute;
+height: 0.01px;
+left: -863.66px;
+right: 899.66px;
+top: 14px;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 59.41px 0px 0px;
+gap: 0.02px;
+
+position: absolute;
+width: 283.89px;
+height: 0.01px;
+left: 881.66px;
+top: 0px;
+
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px;
+
+margin: 0 auto;
+width: 56.76px;
+height: 59.41px;
+
+background: #E4E7ED;
+border: 2px solid #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 2.64px;
+
+width: 52.76px;
+height: 55.41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Seamless Lace Support Bra for Women – Perfect Fit, Large Sizes, Wire - Free Comfort | Ideal for Yoga, Fitness, and Sleep - Gear Elevation */
+
+width: 52.76px;
+max-width: 52.77px;
+height: 52.77px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 5.38px 10px 6.07px;
+
+margin: 0 auto;
+width: 227.11px;
+height: 59.45px;
+
+background: #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+margin: 0 auto;
+width: 139px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 139px;
+height: 26px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Seamless Lace Support Bra for Women – Perfect... */
+
+width: 139px;
+height: 26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+/* or 115% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 139px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px 4px 0px 0px;
+
+width: 33px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $49.99 */
+
+width: 29px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+text-decoration-line: line-through;
+
+color: #8A8A8A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 6px;
+
+width: 58px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 46px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $24.99 */
+
+width: 46px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+display: flex;
+align-items: center;
+letter-spacing: -0.294px;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+margin: 0 auto;
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #CCCCCC;
+border-radius: 34px;
+
+
+/* Background */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 4px;
+bottom: 4px;
+
+background: #FFFFFF;
+border-radius: 13px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 59.41px 0px 0px;
+gap: 0.02px;
+
+position: absolute;
+width: 283.89px;
+height: 0.01px;
+left: 1175.58px;
+top: 0px;
+
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2px;
+
+margin: 0 auto;
+width: 56.76px;
+height: 59.41px;
+
+background: #E4E7ED;
+border: 2px solid #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 2.64px;
+
+width: 52.76px;
+height: 55.41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plush Soft Robe - Bathroom Wearable Bathrobe Towel - Gear Elevation */
+
+width: 52.76px;
+max-width: 52.77px;
+height: 52.77px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 6.06px 10px 6.07px;
+
+margin: 0 auto;
+width: 227.11px;
+height: 59.41px;
+
+background: #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 25.28px 0px 0px;
+
+margin: 0 auto;
+width: 147.11px;
+min-width: 147.11px;
+height: 47.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 147.11px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Margin */
+
+width: 31.97px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 6px;
+
+width: 56.75px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 44.75px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+margin: 0 auto;
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 59.92px 0px 0px;
+gap: 0.02px;
+
+position: absolute;
+width: 283.89px;
+height: 0.01px;
+left: 587.77px;
+top: 0px;
+
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+margin: 0 auto;
+width: 56.76px;
+height: 59.92px;
+
+background: #E4E7ED;
+border: 2px solid #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 10px;
+
+margin: 0 auto;
+width: 227.11px;
+height: 59.92px;
+
+background: #E4E7ED;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 37.92px 0px 0px;
+
+margin: 0 auto;
+width: 147.11px;
+min-width: 147.11px;
+height: 59.92px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 147.11px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Margin */
+
+width: 31.97px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 6px;
+
+width: 56.03px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 44.03px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+margin: 0 auto;
+width: 60px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button - Previous */
+
+position: absolute;
+width: 20px;
+height: 20px;
+right: 46px;
+top: 124px;
+
+opacity: 0.6;
+
+
+/* SVG */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 4px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.99%;
+right: 30.01%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Button - Next */
+
+position: absolute;
+width: 20px;
+height: 20px;
+right: 14px;
+top: 124px;
+
+opacity: 0.6;
+
+
+/* SVG */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 4px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.01%;
+right: 9.99%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+transform: rotate(180deg);
+
+
+/* Ordered List */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 152px 2px 8px;
+gap: 16px;
+
+position: absolute;
+max-width: 234px;
+height: 12px;
+left: 3.78%;
+right: 36.22%;
+bottom: 14px;
+
+
+
+/* Item - Page dot 1 */
+
+width: 10px;
+height: 10px;
+
+background: rgba(0, 0, 0, 0.3);
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item - Page dot 2 */
+
+width: 10px;
+height: 10px;
+
+background: rgba(0, 0, 0, 0.3);
+opacity: 0.25;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item - Page dot 3 */
+
+width: 10px;
+height: 10px;
+
+background: rgba(0, 0, 0, 0.3);
+opacity: 0.25;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Form */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px 20px 70px 10px;
+gap: 16px;
+
+width: 370px;
+height: 432.17px;
+
+background: #F0F2F5;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* variant-selection → options-selection */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+width: 340px;
+min-width: 340px;
+height: 273.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fieldset */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.39px;
+
+width: 340px;
+height: 177.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Legend → Color: Black */
+
+width: 85px;
+height: 19px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #5F6061;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 340px;
+height: 148px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 0px 1.5px #FFFFFF, 0px 0px 0px 3px #818181;
+border-radius: 32px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #000000;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 69px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #FFFFFF;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 138px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #FFC0CB;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 207px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #800080;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 0px;
+top: 74px;
+
+background: #FFFFFF;
+border-radius: 32px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 64px;
+height: 64px;
+
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image+Background */
+
+width: 64px;
+height: 64px;
+
+background: url(.png), #008000;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fieldset */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.39px;
+
+width: 340px;
+height: 80.78px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Legend → Size: S */
+
+width: 46px;
+height: 19px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+
+color: #5F6061;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 10px;
+gap: 5px;
+
+width: 340px;
+height: 51.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8.5px 13px 8.89px;
+
+width: 37px;
+height: 41.39px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* S */
+
+width: 11px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8.5px 13px 8.89px;
+
+width: 39px;
+height: 41.39px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* M */
+
+width: 13px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8.5px 13px 8.89px;
+
+width: 35px;
+height: 41.39px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* L */
+
+width: 9px;
+height: 24px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height, or 130% */
+display: flex;
+align-items: center;
+
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 340px;
+height: 53px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 14px 5px;
+
+position: absolute;
+height: 46.25px;
+left: 127px;
+right: 0px;
+top: 3.38px;
+
+background: linear-gradient(360deg, #DEBB0A 0%, #FFD814 100%);
+box-shadow: 0px 1.47742px 0px #B89B0B, 0px 2.21613px 9.60323px rgba(153, 129, 0, 0.36);
+border-radius: 5.91px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 0px 1.25px;
+gap: 0.01px;
+
+width: 203px;
+height: 18.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 7px 0px 0px;
+
+width: 21.74px;
+height: 16.01px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 14.74px;
+height: 16.01px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 14.59%;
+bottom: 7.51%;
+
+background: #0E0E0E;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Add To Cart */
+
+width: 85px;
+height: 18.26px;
+max-height: 18.26px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 15.9px;
+line-height: 18px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #0E0E0E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 115px;
+height: 57px;
+left: 0px;
+top: -4px;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 12px 10px 0px;
+isolation: isolate;
+
+width: 115px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Background+Border+Shadow */
+
+box-sizing: border-box;
+
+width: 95px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+box-shadow: 0px 1.79949px 2.69923px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 13px;
+top: calc(50% - 15px/2);
+
+
+
+/* SVG */
+
+width: 15px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 50%;
+bottom: 50%;
+
+border: 1.25px solid #000000;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 67px;
+top: calc(50% - 15px/2);
+
+
+
+/* SVG */
+
+width: 15px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.25px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 50%;
+bottom: 50%;
+
+border: 1.25px solid #000000;
+
+
+/* Input - Quantity:margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 10px;
+
+position: absolute;
+width: 39.23px;
+height: 18px;
+left: 28px;
+top: 13.88px;
+
+
+
+/* Input - Quantity */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 19.23px;
+height: 18px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 6.12px 0px 6.11px;
+
+width: 19.23px;
+height: 18px;
+overflow: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 1 */
+
+width: 7px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height, or 115% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label → Quantity */
+
+position: absolute;
+width: 62.41px;
+height: 16px;
+left: 30px;
+top: -9px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #949494;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 370px;
+height: 215px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Background+Border */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 19px 18px;
+
+width: 370px;
+height: 105px;
+
+background: #E4E7ED;
+border-width: 1px 0px;
+border-style: solid;
+border-color: #BFBFBF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Margin */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 20px 3.25px 0px;
+
+width: 72.94px;
+height: 56.19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Bitmap.png */
+
+width: 52.94px;
+max-width: 52.94px;
+height: 52.94px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 261.06px;
+min-width: 261.06px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 261.06px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Easy 90 day return policy */
+
+width: 197px;
+height: 18px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #232F3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 261.06px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Don't like it? No worries. We'll take it back for a full refund. */
+
+width: 251px;
+height: 39px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #5B6064;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Background */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 35px 30px;
+
+width: 370px;
+height: 110px;
+
+background: #F0F2F5;
+border-radius: 0px 0px 10px 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 15px;
+
+width: 310px;
+height: 31px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 310px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* We assure you a secure checkout */
+
+width: 310px;
+height: 16px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #5F6061;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 3.25px;
+
+width: 310px;
+height: 39.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group_1000003059_1.png */
+
+width: 310px;
+max-width: 310px;
+height: 35.89px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+width: 370px;
+height: 1827.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 0.75px;
+
+position: absolute;
+height: 45.75px;
+left: 0px;
+right: 0px;
+top: 35.63px;
+
+
+
+/* Strong → Say Goodbye to Boob Sweat—and
+Hello to Breathable Bliss */
+
+width: 339px;
+height: 45px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 22.5px;
+line-height: 22px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 38.5px 0px 0px;
+
+position: absolute;
+height: 430.5px;
+left: 0px;
+right: 0px;
+top: 93.38px;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 0px 22px;
+
+width: 370px;
+height: 392px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 20201007_Towel_Bra_-_Posture_Corrector_GIFSC1_480x480.gif */
+
+width: 370px;
+max-width: 370px;
+height: 370px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 158px;
+left: 0px;
+right: 0px;
+top: 528.38px;
+
+
+
+/* There’s nothing cute about swampy discomfort under your bust. The Soft & Cozy Terry Towel Bra is here to change that. Made with 100% cotton terry cloth, this bra is soft, wireless, and absorbent in all the right places. Whether you're lounging at home, getting ready for the day, or simply ditching the underwire life—it’s the bra you never knew you needed. */
+
+width: 373px;
+height: 158px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 701.88px;
+
+
+
+/* No wires. No pads. No regrets. */
+
+width: 187px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0.75px;
+
+position: absolute;
+height: 45.75px;
+left: 0px;
+right: 0px;
+top: 740.63px;
+
+
+
+/* Strong → 💡 Why 473 Women Reached for This
+Instead of Their Usual Bra */
+
+width: 365px;
+height: 45px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 22.5px;
+line-height: 22px;
+/* or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 797.38px;
+
+
+
+/* Strong → Breathable Comfort in a Cotton Hug */
+
+width: 362px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 22.5px;
+line-height: 22px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 102.5px;
+left: 0px;
+right: 0px;
+top: 836.88px;
+
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Sweat-wicking terry cloth keeps you cool and dry */
+
+width: 304px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Ideal for post-shower, bedtime, or lazy-day wear */
+
+width: 300px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Full coverage without the bulk or stiffness */
+
+width: 259px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 954.38px;
+
+
+
+/* Strong → Wireless, Weightless, Worry-Free */
+
+width: 334px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 22.5px;
+line-height: 22px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 102.5px;
+left: 0px;
+right: 0px;
+top: 993.88px;
+
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* No hooks, clasps, or underwires to dig into your skin */
+
+width: 323px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Adjustable straps for a custom fit */
+
+width: 204px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Lightweight design that actually feels like... nothing */
+
+width: 319px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 1111.38px;
+
+
+
+/* Strong → Your Favorite Lounge Look */
+
+width: 272px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 800;
+font-size: 22.5px;
+line-height: 22px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 102.5px;
+left: 0px;
+right: 0px;
+top: 1150.88px;
+
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Available in Black, White, Pink, Purple, and Green */
+
+width: 304px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Sizes: S, M, L */
+
+width: 78px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cute enough for TikTok. Comfy enough for naps. */
+
+width: 300px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 1268.38px;
+
+
+
+/* Strong → Size Chart */
+
+width: 67px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Table */
+
+box-sizing: border-box;
+
+position: absolute;
+height: 80.38px;
+left: 0px;
+right: 0px;
+top: 1307.88px;
+overflow: scroll;
+
+background: rgba(255, 255, 255, 0.002);
+border: 1px solid rgba(128, 128, 128, 0.16);
+box-shadow: 0px 1px 4px rgba(128, 128, 128, 0.11);
+
+
+/* Body */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 197.52px;
+left: 1.5px;
+right: 1.5px;
+top: 1.5px;
+
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 367px;
+height: 49.38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 173.09px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Applicable for */
+
+width: 87px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 115.3px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Size */
+
+width: 26px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 78.61px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Weight */
+
+width: 44px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 367px;
+height: 49.38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 173.09px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* S (suitable for (C-DD) */
+
+width: 130px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 115.3px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 75CM*20CM */
+
+width: 75px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 78.61px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 75G */
+
+width: 24px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 367px;
+height: 49.38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 173.09px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* M (suitable for (DDD-E) */
+
+width: 141px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 115.3px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 90CM*24CM */
+
+width: 75px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 78.61px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 85G */
+
+width: 24px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 367px;
+height: 49.38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 173.09px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* L (suitable for (F-H) */
+
+width: 119px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 115.3px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 100CM*28CM */
+
+width: 82px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 11.5px 17px 12.88px;
+
+width: 78.61px;
+height: 49.38px;
+
+border: 1px solid rgba(128, 128, 128, 0.16);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 95G */
+
+width: 24px;
+height: 25px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 1425.75px;
+
+
+
+/* 💬 What Customers Say */
+
+width: 235px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 22px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0.75px;
+
+position: absolute;
+height: 135.75px;
+left: 0px;
+right: 0px;
+top: 1456.5px;
+
+
+
+/* “Wearing this around the house is my new favorite hobby.” — Eden “I use it during pregnancy, after showers, even while cleaning. It’s that comfortable.” — Marie “If a spa towel and a crop top had a baby—it would be this.” — Kelsey */
+
+width: 369px;
+height: 135px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Heading 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 1645.75px;
+
+
+
+/* 📦 What’s Included */
+
+width: 191px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 22px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 20px;
+gap: 16px;
+
+position: absolute;
+height: 142px;
+left: 0px;
+right: 0px;
+top: 1685.25px;
+
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* 1 Soft & Cozy Terry Towel Bra */
+
+width: 181px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Size: Small, Medium, or Large */
+
+width: 183px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Color of your choice */
+
+width: 124px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+width: 350px;
+height: 23.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 7.35px;
+height: 25px;
+left: 0px;
+top: -0.31px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 163% */
+display: flex;
+align-items: center;
+/* For hanging lists, 0 padding should be applied to the <ul> element. */
+list-style-position: outside;
+padding: 0;
+
+color: #000000;
+
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 23px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Pre-washed, breathable cotton comfort     */
+
+width: 258px;
+height: 23px;
+
+font-family: 'Assistant';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
