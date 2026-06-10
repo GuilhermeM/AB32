@@ -168,24 +168,22 @@
 
   /* Some PDPs already render a theme bullet block (Shopify metafield rendered as
    * <div class="c_buttle_point_wrap"><div class="metafield-rich_text_field"><ul><li>...).
-   * Skip the variant on those pages so we don't show two bullet lists. */
-  function hasExistingBullets() {
+   * Hide it so our styled variant is the single source of bullets. Uses display:none
+   * (not removal) so the theme's own scripts don't break if they reference the node. */
+  function hideExistingBullets() {
     var wraps = document.querySelectorAll('.c_buttle_point_wrap');
     for (var i = 0; i < wraps.length; i++) {
-      if (wraps[i].querySelector('li')) return true;
+      if (wraps[i].querySelector('li')) {
+        wraps[i].style.display = 'none';
+        wraps[i].setAttribute('data-ge-ab032-hidden', '1');
+      }
     }
-    return false;
   }
 
   /* --- main render --- */
   function render() {
     if (location.pathname.indexOf('/products/') === -1) return false;
     if (document.getElementById(ROOT_ID)) return false;
-
-    if (hasExistingBullets()) {
-      try { console.info('[GE-AB032] theme already shows bullets, skipping variant'); } catch (_) {}
-      return false;
-    }
 
     var handle = resolveHandle();
     if (!handle) {
@@ -206,6 +204,7 @@
     }
 
     injectStyles();
+    hideExistingBullets();
     var panel = buildPanel(hit.benefits);
     anchor.el.insertAdjacentElement(anchor.mode, panel);
 
