@@ -87,20 +87,46 @@
     return null;
   }
 
-  /* Shopify auto-truncates handles >120 chars, so the live PDP URL may carry
-   * the FULL handle (e.g. ...-fk0301747018588026) while BENEFITS_MAP holds the
-   * truncated/hashed form (e.g. ...-f-07faac4e). Try exact first, then prefix. */
+  /* Page handle and map key don't always match exactly:
+   *   - Shopify auto-truncates handles >120 chars, so the URL may carry the
+   *     FULL handle (e.g. ...-fk0301747018588026) while the map holds the
+   *     truncated/hashed form (e.g. ...-f-07faac4e).
+   *   - Some products were re-slugged after curation: the map key is short
+   *     (e.g. `flame-wand`) but the live URL is longer
+   *     (`flame-wand-cosplay-electronic-fire-flasher-...`).
+   * Try exact first, then match prefixes in BOTH directions. Pick the
+   * longest matching key so two short keys can't both win on a generic stub. */
   function lookupBenefits(handle) {
     if (!handle) return null;
     if (Object.prototype.hasOwnProperty.call(BENEFITS_MAP, handle)) {
       return { key: handle, benefits: BENEFITS_MAP[handle] };
     }
-    var prefix = handle.slice(0, 80);
-    if (prefix.length < 20) return null;
+    var MIN = 8;
+    if (handle.length < MIN) return null;
     var keys = Object.keys(BENEFITS_MAP);
+
+    // Tier 1: bidirectional exact-prefix. Handles short-key/long-URL slug renames
+    // (flame-wand → flame-wand-cosplay-...) AND long-URL/short-key direction.
+    // Pick the LONGEST winning key so generic stubs can't beat specific keys.
+    var bestKey = null;
     for (var i = 0; i < keys.length; i++) {
-      if (keys[i].indexOf(prefix) === 0) {
-        return { key: keys[i], benefits: BENEFITS_MAP[keys[i]] };
+      var k = keys[i];
+      if (k.length < MIN) continue;
+      if (handle.indexOf(k) === 0 || k.indexOf(handle) === 0) {
+        if (!bestKey || k.length > bestKey.length) bestKey = k;
+      }
+    }
+    if (bestKey) return { key: bestKey, benefits: BENEFITS_MAP[bestKey] };
+
+    // Tier 2: shared-prefix for hash-suffixed Shopify truncations
+    // (...-rec-4a2d631a vs ...-rec-fk0301747...): require at least 80 chars
+    // of shared prefix to avoid false positives across distinct products.
+    var SHARED = 80;
+    var hPrefix = handle.slice(0, SHARED);
+    if (hPrefix.length < SHARED) return null;
+    for (var j = 0; j < keys.length; j++) {
+      if (keys[j].slice(0, SHARED) === hPrefix) {
+        return { key: keys[j], benefits: BENEFITS_MAP[keys[j]] };
       }
     }
     return null;
